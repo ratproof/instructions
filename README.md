@@ -1,3 +1,5 @@
-# claude instructions
+# General Instructions
+- Always humanize and type check the code, double check if the code is correct
+# Website Instructions
 - do NOT vibecode
-- Avoid using bright colors for development, em dashes, 
+- For web development avoid using bright colors, em dashes, pill shaped buttons, plain emojis use svg icons instead
