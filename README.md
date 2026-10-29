@@ -6,5 +6,5 @@
 # Website Instructions
 - Do NOT vibecode
 - For web development avoid using bright colors, em dashes, pill shaped buttons, plain emojis use svg icons instead
-- Do NOT add to many scroll animations, effects nothing that will look ai generated
+- Do NOT add to many scroll animations or effects nothing that will look ai generated
 - Always make the web minimal but modern
